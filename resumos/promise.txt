@@ -1,0 +1,7 @@
+promises
+ - compor chamadas atrás da outra
+ - "new" cria um objeto
+ - metodo "then" recebe uma function como parametro
+ - uma promise gera apenas um unico valor, mesmo passando mais de um parametro
+	- para gerar dois valores é necessario criar um object na promise
+ - o resultado do metodo 'then' é passado para o proximo e assim sucessivamente

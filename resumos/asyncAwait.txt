@@ -1,0 +1,3 @@
+async/await
+ - recurso do ES8
+ - objetico de simplificar o uso de promises, se tornando assincrono
